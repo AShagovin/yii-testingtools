@@ -1,0 +1,13 @@
+{
+    "name": "crisu83/yii-testingtools",
+    "description": "Tools for testing Yii extensions with Codeception.",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Christoffer Niska",
+            "email": "ChristofferNiska@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
