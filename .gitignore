@@ -1,0 +1,5 @@
+# phpstorm files
+.idea/*
+
+# composer files
+composer.phar
